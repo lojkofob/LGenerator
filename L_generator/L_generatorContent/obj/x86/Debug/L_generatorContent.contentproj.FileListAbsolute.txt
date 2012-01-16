@@ -1,0 +1,2 @@
+D:\projects\L_generator\L_generator\L_generatorContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\projects\L_generator\L_generator\L_generatorContent\obj\x86\Debug\ResolveAssemblyReference.cache

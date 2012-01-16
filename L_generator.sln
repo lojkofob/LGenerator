@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L_generator", "L_generator\L_generator\L_generator.csproj", "{92C4FADE-8AA7-40C2-AED4-F45E8E030952}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "L_generatorContent", "L_generator\L_generatorContent\L_generatorContent.contentproj", "{C89F7C90-43D3-4237-835E-AD20DD15FC5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92C4FADE-8AA7-40C2-AED4-F45E8E030952}.Debug|x86.ActiveCfg = Debug|x86
+		{92C4FADE-8AA7-40C2-AED4-F45E8E030952}.Debug|x86.Build.0 = Debug|x86
+		{92C4FADE-8AA7-40C2-AED4-F45E8E030952}.Release|x86.ActiveCfg = Release|x86
+		{92C4FADE-8AA7-40C2-AED4-F45E8E030952}.Release|x86.Build.0 = Release|x86
+		{C89F7C90-43D3-4237-835E-AD20DD15FC5E}.Debug|x86.ActiveCfg = Debug|x86
+		{C89F7C90-43D3-4237-835E-AD20DD15FC5E}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
